@@ -1,0 +1,174 @@
+-----------------------------------------------------------------------------------------------
+Report on 55th Capablanca Mem Elite from HavanaCapaMemEliteApr2022cat14_SF15d20-30pv1.aif, using
+Stockfish 15 to depth 20:30 in 1pv-mode with 512MB hash, normalizing values and cap.
+Skips turns 1--8, all moves in repetitions, turns after 60, and turns where one side was and remains up over 4.
+EventDate 2022.04.19, tourn with 9 rounds at  in Havana CUB, 
+
+Whole-event statistics:
+-----------------------
+Avg. rating by game:          2589;  min 2519, max 2652
+Avg. rating by retained move  2590
+Retained Moves percentage:    2175 / 2645 = 82.23%
+
+Aggregate matching:           1207 / 2175 = 55.49%
+EqTop/NonDrop moves:          1385 / 2175 = 63.68%
+Aggregate error:              236.9533 / 2175 = 0.1089
+
+Avg. ROI by player:           48.9
+Overall tourney ROI:          47.0
+
+
+
+Key:
+MovM = "Move Match", i.e., agreement with engine's first line; MM% is move-match percentage.
+AvgScD = "Average Scaled Difference", i.e. average error per move judged by computer but scaled
+so that differences in uneven positions count less---units are "Pawns in Even Positions".
+ROI = "Raw Outlier Index" which is composed of the MM% and AvgScD indexes over 100,000s of games.
+The ROI is scaled so that 50 = expectation for one's rating; 40-60 = "completely normal"; 60-70 =
+"still mostly normal, but if there is a complaint, take it seriously"; and >= 70 means to give
+extra discreet scrutiny to the player and contact the Fair Play Commission (FPL) for further tests.
+
+Player Name                   Elo  score/#g  diff MovM/Turns= Pct.  AvgScD  ROI     Opponents' figures
+---------------------------------------------------------------------------------------------------
+Albornoz Cabrera Carlos Danie 2574   3.5/  9  -62  137/ 246 = 55.7%  0.115,  48.9  145/ 244 = 59.4%  0.094
+Almeida Quintana O            2536   2.5/  9 -107   91/ 178 = 51.1%  0.117,  47.1  101/ 177 = 57.1%  0.081
+Durarbayli V                  2628   5.5/  9  +36   98/ 187 = 52.4%  0.103,  46.7   97/ 192 = 50.5%  0.114
+Ganguly S                     2609   5.5/  9  +57  135/ 222 = 60.8%  0.106,  52.3  127/ 220 = 57.7%  0.119
+Mareco S                      2652   5.0/  9  -31   95/ 185 = 51.4%  0.124,  42.3   97/ 183 = 53.0%  0.128
+Niemann Hans Moke             2637   7.5/  9 +227  147/ 247 = 59.5%  0.107,  50.2  133/ 249 = 53.4%  0.152
+Ortiz Suarez I                2533   3.0/  9  -58   97/ 195 = 49.7%  0.122,  45.6  111/ 197 = 56.3%  0.094
+Quesada Perez Luis Ernesto    2519   5.5/  9 +157  126/ 224 = 56.3%  0.117,  50.9  117/ 225 = 52.0%  0.140
+Quesada Perez Ya              2579   2.5/  9 -155  146/ 251 = 58.2%  0.109,  51.3  130/ 248 = 52.4%  0.091
+Yilmaz M                      2626   4.5/  9  -41  135/ 240 = 56.3%  0.076,  53.2  149/ 240 = 62.1%  0.072
+
+Moments of 10 rated players: L1 10.3 from 90 game sides, L2 112.3, alt.-L2 112.3 by 810 games-sq.
+
+
+By game side.  Key:
+(round)(color) (result) (oppt.) (oppt. rating) (MM/turns = MM%) (AvgScD) (game trace turns 9-60)
+Game trace key: M = move matches first line; N = non-inferior move though not first line; 0 =
+inferior move; r = repeating sequence so eliminsted; e = eliminated because one side far ahead.
+
+-----------------------
+Albornoz Cabrera Carlos Daniel 2574 246
+ 1w L Mareco S         2652:  5/ 17 = 29% 0.214  M0 00000MM00M N0M00eeeee eee
+ 2b L Durarbayli V     2628: 10/ 23 = 43% 0.120  00 MMMNM0N000 0MM0000MMM M
+ 3w L Ganguly S        2609: 19/ 35 = 54% 0.162  MM 0NMM00MMMM MMrrr0MM00 MMMM0M0M0N N000M0rrre eeeeee
+ 4b W Quesada Perez Ya 2579: 28/ 51 = 55% 0.089  MM M0MM0MMM0M MMMM0MMMN0 MMMMMMM0MN 0N0NM00N00 e0MM0000M0
+                                                    ---------- ---------- -----
+ 5w D Yilmaz M         2626: 18/ 24 = 75% 0.009  MM MMMMMM0M0M MMMMMNMMMN NN
+ 6w W Almeida Quintana 2536: 28/ 46 = 61% 0.115  M0 M0MMM00MM0 M0MMMM000M M00000000M MMMMMMM0MM MMMMeeee
+ 7b L Niemann Hans Mok 2637: 19/ 33 = 58% 0.131  0M MMMMMMMMMM 0MMM0M0NMM 000M0N0MN0 0eeeeeeeee eeee
+ 8w D Quesada Perez Lu 2519:  9/ 16 = 56% 0.110  MM MMMMMM0000 N0MN
+ 9b D Ortiz Suarez I   2533:  1/  1 = 99% 0.000  M
+-----------------------
+Almeida Quintana O 2536 178
+ 1w D Ortiz Suarez I   2533:  5/ 12 = 42% 0.123  MM 00M00M00M0
+ 2b L Mareco S         2652:  8/ 18 = 44% 0.227  MM NM00M000MM M0M000eeee eeeeeeeeee eeeeeeeeee eee
+ 3w D Durarbayli V     2628: 12/ 20 = 60% 0.076  M0 M00MM000M0 MMMM0MMM
+ 4b L Ganguly S        2609:  1/  4 = 25% 0.314  0M 00eeeeeee
+ 5w D Quesada Perez Ya 2579:  4/  5 = 80% 0.000  MM MMN
+ 6b L Albornoz Cabrera 2574: 21/ 46 = 46% 0.143  0M N00M00MMM0 M00MM0MM0M 000000M0M0 M000MMM00M MMM0eee
+ 7w D Yilmaz M         2626: 19/ 32 = 59% 0.059  0M MMMM000M0M 0M0MMMMMMM M0M0MNN00M rrrr
+ 8w D Niemann Hans Mok 2637: 10/ 20 = 50% 0.070  M0 00M00NM00M M0MMM0MM
+ 9b L Quesada Perez Lu 2519: 11/ 21 = 52% 0.129  M0 00MMM0MMN0 0M0M0eeMMM eeeeee0eee
+-----------------------
+Durarbayli V 2628 187
+ 1b D Quesada Perez Ya 2579:  6/ 20 = 30% 0.150  00 M000MMMMM0 N0000000
+ 2w W Albornoz Cabrera 2574: 13/ 23 = 57% 0.073  00 0MMMMM00MM 0MMM000NMM M
+ 3b D Almeida Quintana 2536: 10/ 19 = 53% 0.091  0N 0MMM0M00MM MMM0NM0
+ 4w D Niemann Hans Mok 2637: 11/ 19 = 58% 0.099  0M MM0MMMMMM0 00N0M0M
+ 5b D Quesada Perez Lu 2519: 10/ 19 = 53% 0.106  0M M0MM0MNMMM M00000Mrrr r
+ 6w D Ortiz Suarez I   2533: 17/ 39 = 44% 0.119  0M M0MM00MMM0 M0MM0rrrMM 0eeeeee000 00M00MNNNN NNMMMrrrrN
+                                                    ---------- ---------- ---------- ---------- ---
+ 7b D Mareco S         2652: 10/ 15 = 67% 0.129  0N MMNMMMM0MM 0MM
+ 8b D Yilmaz M         2626:  5/  5 = 99% 0.000  MM MMM
+ 9w W Ganguly S        2609: 16/ 28 = 57% 0.084  00 M0M00MM0MM 00MM0MMM0M NMNMMeeeee eeeeeeMeee eeeeeeee
+-----------------------
+Ganguly S 2609 222
+ 1w D Yilmaz M         2626: 23/ 25 = 92% 0.004  MM MM0MMMMNMM MMMMMMMMMM MMM
+ 2w W Quesada Perez Ya 2579: 19/ 26 = 73% 0.033  M0 MMM0M00MMM MMMMMMMMMM M0N0eeeeee eeeeee
+ 3b W Albornoz Cabrera 2574: 22/ 34 = 65% 0.113  MM MMMMM0MMMM MMrrr0000M 0MM000M0MM MM0M0errre eeeeee
+ 4w W Almeida Quintana 2536:  2/  4 = 50% 0.017  M0 NMeeeeeeee
+ 5b L Niemann Hans Mok 2637: 24/ 44 = 55% 0.137  MM M00MMMM00M 000MN0MMMM MN00N0MMMM 00MM0M0M0e eeerreeMM0
+                                                    ---------- ---------- ---------
+ 6w W Quesada Perez Lu 2519:  9/ 14 = 64% 0.072  MM 00MMMM000M MMeeeee
+ 7b D Ortiz Suarez I   2533: 18/ 27 = 67% 0.119  M0 M00MMMMMMM 0M00MMMMMM Mrrrrr0MNN
+ 8w D Mareco S         2652:  8/ 20 = 40% 0.185  MM 0000000M0M M0M0MNMN
+ 9b L Durarbayli V     2628: 10/ 28 = 36% 0.168  0M 000M0M00M0 0M0MMM00MN 0N0M0eeeee eeeeee0eee eeeeeee
+-----------------------
+Mareco S 2652 185
+ 1b W Albornoz Cabrera 2574:  8/ 16 = 50% 0.040  M0 MMN0NMN0MM 0MNMeeeeee eee
+ 2w W Almeida Quintana 2536:  7/ 18 = 39% 0.161  MM NM00M00M0M 0000M0eeee eeeeeeeeee eeeeeeeeee eee
+ 3b L Niemann Hans Mok 2637:  5/ 10 = 50% 0.237  rr rMMMMN0M00 0eeee
+ 4w L Quesada Perez Lu 2519: 10/ 18 = 56% 0.192  MM MMMMM000Ne eeee000MMM 0e
+ 5b W Ortiz Suarez I   2533: 19/ 29 = 66% 0.056  0M MMNMM00M00 MMM0MMMMeM Meeee0MMM0 MNeeeee
+ 6b D Yilmaz M         2626:  7/ 12 = 58% 0.097  0M 0MM00MM0MM
+ 7w D Durarbayli V     2628:  9/ 16 = 56% 0.126  M0 0M0NMMMM00 0MMM
+ 8b D Ganguly S        2609:  5/ 19 = 26% 0.197  00 M00M00000N 0MM0M0N
+ 9w D Quesada Perez Ya 2579: 25/ 47 = 53% 0.108  M0 00M00N0M0M 00M0MNMMM0 MMMMM0MM0M 00M000rrMM 0MMMM0Mrrr
+                                                    ---------- ----
+-----------------------
+Niemann Hans Moke 2637 247
+ 1w D Quesada Perez Lu 2519: 25/ 49 = 51% 0.218  MM 000MMMMM00 00M00M000N 0M0MMMe0MM MN0MMMN0MM MMNNNNMMrr
+                                                    ---------- ---------- ---------- ----------
+ 2b W Ortiz Suarez I   2533: 16/ 26 = 62% 0.066  NM MM0M00MMN0 000MMMMMMM M0MM
+ 3w W Mareco S         2652:  8/ 10 = 80% 0.076  Mr rrMM0MMMM0 Meeeee
+ 4b D Durarbayli V     2628:  8/ 19 = 42% 0.081  0N 000M0NMMMM M000MMN
+ 5w W Ganguly S        2609: 30/ 43 = 70% 0.082  MM MMM0M00MMM 00MM0M0MMM 0MNMMMMNMM M00MMMMMMe eeerrreeM0
+                                                    ---------- ---------- ----------
+ 6b W Quesada Perez Ya 2579: 20/ 35 = 57% 0.106  MM 0000M00MMM 0MMM00MMMM N0MMMMM00M N0eeMeeeee eee
+ 7w W Albornoz Cabrera 2574: 20/ 33 = 61% 0.078  M0 0MMMMMMM0N 0M000M0M0N MMMMMMMMM0 Neeeeeeeee eeeee
+ 8b D Almeida Quintana 2536: 11/ 19 = 58% 0.063  M0 0M00MMMMM0 M0MM00M
+ 9w W Yilmaz M         2626:  9/ 13 = 69% 0.062  MM MMMMM0M000 Meeeeerrrr eeeeeeeee
+-----------------------
+Ortiz Suarez I 2533 195
+ 1b D Almeida Quintana 2536:  6/ 12 = 50% 0.095  MM 0MMMM0000N
+ 2w L Niemann Hans Mok 2637: 16/ 26 = 62% 0.093  M0 MNMMM00NMM 00M0MM0MMM MM0M
+ 3b D Quesada Perez Lu 2519: 12/ 18 = 67% 0.059  MM M0MMMM0MNM M00MM0
+ 4b L Yilmaz M         2626: 16/ 37 = 43% 0.157  MN M00MM000MM 0MMM0000M0 0M0M000M00 MMM00eeeee eeeeeee
+ 5w L Mareco S         2652: 13/ 28 = 46% 0.131  M0 MMMNN0000M 000M0M0Mee 00eeeeMMM0 MMeeeee
+ 6b D Durarbayli V     2628: 20/ 39 = 51% 0.128  MM M0000MM0MM 00MMrrrM0M 0eeeeeeMMM MM000MNNNM NNMNrrrrNM
+                                                    ---------- ---------- ---------- ---------- --
+ 7w D Ganguly S        2609: 12/ 27 = 44% 0.146  MM M0M0000M0M M0000MM0NM 0rrrrr0MMN
+ 8b D Quesada Perez Ya 2579:  1/  6 = 17% 0.113  00 00M0
+ 9w D Albornoz Cabrera 2574:  1/  2 = 50% 0.000  MN
+-----------------------
+Quesada Perez Luis Ernesto 2519 224
+ 1b D Niemann Hans Mok 2637: 23/ 47 = 49% 0.220  MM MMM0M0MM00 0MN00000NN 00000eeMMM MMMM0M0NMM MNMNNMMrrr
+                                                    ---------- ---------- ---------- ---------
+ 2b D Yilmaz M         2626: 30/ 52 = 58% 0.088  NM NM00M000M0 M000M00MMM 0MNMMMMMMM MM0MMMMN0N MMMM00M0MM
+                                                    -------
+ 3w D Ortiz Suarez I   2533: 14/ 19 = 74% 0.027  MM MNMMMM000M MMMMM0M
+ 4b W Mareco S         2652:  9/ 17 = 53% 0.099  M0 0M0M00M00e eeeeMMMMM0 ee
+ 5w D Durarbayli V     2628: 13/ 20 = 65% 0.042  MM 0NMMM00MMM N0MMMMM0rr rr
+ 6b L Ganguly S        2609:  5/ 14 = 36% 0.173  M0 M0000M000M M0eeee
+ 7w W Quesada Perez Ya 2579:  9/ 18 = 50% 0.109  00 0MM00MMMMM 00M00Meeee ee
+ 8b D Albornoz Cabrera 2574:  9/ 15 = 60% 0.217  MN MMMM00MMMM 000
+ 9w W Almeida Quintana 2536: 14/ 22 = 64% 0.034  M0 M0M00MM0MM MMMMMee0NM Meeeee0eee
+-----------------------
+Quesada Perez Ya 2579 251
+ 1w D Durarbayli V     2628: 12/ 21 = 57% 0.149  0M M0M00MM0MM 0M0M0MM0M
+ 2b L Ganguly S        2609: 17/ 26 = 65% 0.130  0M MMMMMMMNMM MN0M0N0M0M MMM0eeeeee eeeee
+ 3w D Yilmaz M         2626: 22/ 40 = 55% 0.071  M0 MM0M00M000 M0MMMMMM0M MMNMMMNMNN MMNMNNNN
+ 4w L Albornoz Cabrera 2574: 32/ 51 = 63% 0.087  MM M0M000MMM0 M00MM0M0MM MMMMMMMMMM 00N0M0MM00 0eMMMMM0M0
+                                                    ---------- ---------- -----
+ 5b D Almeida Quintana 2536:  3/  5 = 60% 0.021  0M MMN
+ 6w L Niemann Hans Mok 2637: 20/ 37 = 54% 0.164  M0 000MMMM00M 0M0MM0MM0M MN0M000MM0 MM0eMMeeee eee
+ 7b L Quesada Perez Lu 2519:  8/ 18 = 44% 0.200  MN 00M000MM0M 0MMM00eeee e
+ 8w D Ortiz Suarez I   2533:  1/  7 = 14% 0.130  00 000MN
+ 9b D Mareco S         2652: 31/ 46 = 67% 0.062  00 MMMMNM0MMM MMMMMMMMMM M0MNN0M000 MMNMMrrrMM 0M00MMMrrr
+                                                    ---------- ---
+-----------------------
+Yilmaz M 2626 240
+ 1b D Ganguly S        2609: 22/ 24 = 92% 0.000  NM MMMMMMMMMN MMMMMMMMMM MM
+ 2w D Quesada Perez Lu 2519: 23/ 52 = 44% 0.101  00 MM00000000 00000MMMM0 0MMMMMMMMN 0M0M0MMN0N MN00MMNMMN
+                                                    --------
+ 3b D Quesada Perez Ya 2579: 18/ 40 = 45% 0.071  0M MM00MM0000 MMMMMM0M0N MNMNNNNMNN NNMMNNNM
+ 4w W Ortiz Suarez I   2533: 20/ 37 = 54% 0.121  MN MMMM0MM0MM 00000000N0 M000MMMM0M MMMMMeeeee eeeeeeee
+ 5b D Albornoz Cabrera 2574: 19/ 24 = 79% 0.000  MM MMMMMMMMMM MMMMMMMNNN NN
+ 6w D Mareco S         2652:  5/ 12 = 42% 0.089  MM 00M00NM00M
+ 7b D Almeida Quintana 2536: 20/ 32 = 62% 0.039  M0 00MMM0M000 MMMMMMMMM0 MMMNMNMNMN rrr
+ 8w D Durarbayli V     2628:  3/  6 = 50% 0.060  NM 00MM
+ 9b L Niemann Hans Mok 2637:  5/ 13 = 38% 0.227  MM 000MM00000 Meeeeerrre eeeeeeee
+-----------------------

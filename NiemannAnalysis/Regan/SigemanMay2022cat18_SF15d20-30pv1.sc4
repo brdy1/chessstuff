@@ -1,0 +1,119 @@
+-----------------------------------------------------------------------------------------------
+Report on TePe Sigeman Chess Tournament from SigemanMay2022cat18_SF15d20-30pv1.aif, using
+Stockfish 15 to depth 20:30 in 1pv-mode with 512MB hash, normalizing values and cap.
+Skips turns 1--8, all moves in repetitions, turns after 60, and turns where one side was and remains up over 4.
+EventDate ,  with  rounds at  in chess24.com, 
+
+Whole-event statistics:
+-----------------------
+Avg. rating by game:          2681;  min 2635, max 2715
+Avg. rating by retained move  2682
+Retained Moves percentage:    1599 / 1815 = 88.10%
+
+Aggregate matching:           915 / 1599 = 57.22%
+EqTop/NonDrop moves:          1067 / 1599 = 66.73%
+Aggregate error:              127.8937 / 1599 = 0.0800
+
+Avg. ROI by player:           51.0
+Overall tourney ROI:          52.9
+
+
+
+Key:
+MovM = "Move Match", i.e., agreement with engine's first line; MM% is move-match percentage.
+AvgScD = "Average Scaled Difference", i.e. average error per move judged by computer but scaled
+so that differences in uneven positions count less---units are "Pawns in Even Positions".
+ROI = "Raw Outlier Index" which is composed of the MM% and AvgScD indexes over 100,000s of games.
+The ROI is scaled so that 50 = expectation for one's rating; 40-60 = "completely normal"; 60-70 =
+"still mostly normal, but if there is a complaint, take it seriously"; and >= 70 means to give
+extra discreet scrutiny to the player and contact the Fair Play Commission (FPL) for further tests.
+
+Player Name                   Elo  score/#g  diff MovM/Turns= Pct.  AvgScD  ROI     Opponents' figures
+---------------------------------------------------------------------------------------------------
+Adams Michael                 2698   3.0/  6  -22  112/ 198 = 56.6%  0.078,  50.3  107/ 198 = 54.0%  0.071
+Erigaisi Arjun                2675   3.5/  6  +65  112/ 194 = 57.7%  0.082,  51.2  106/ 194 = 54.6%  0.094
+Grandelius Nils               2635   3.5/  6 +109  105/ 173 = 60.7%  0.047,  58.8  101/ 173 = 58.4%  0.069
+Navara David                  2682   3.0/  6   -1  113/ 187 = 60.4%  0.084,  52.3  107/ 188 = 56.9%  0.087
+Niemann Hans Moke             2656   4.5/  6 +214  135/ 220 = 61.4%  0.067,  56.6  138/ 220 = 62.7%  0.091
+Salem AR Saleh                2690   2.5/  6  -72   99/ 206 = 48.1%  0.113,  40.0  112/ 208 = 53.8%  0.101
+Shirov Alexei                 2695   1.5/  6 -200  125/ 213 = 58.7%  0.083,  51.0  122/ 210 = 58.1%  0.064
+Van Foreest Jorden            2715   2.5/  6  -94  114/ 208 = 54.8%  0.081,  48.1  122/ 208 = 58.7%  0.062
+
+Moments of 8 rated players: L1 16.2 from 48 game sides, L2 120.6, alt.-L2 120.6 by 288 games-sq.
+
+
+By game side.  Key:
+(round)(color) (result) (oppt.) (oppt. rating) (MM/turns = MM%) (AvgScD) (game trace turns 9-60)
+Game trace key: M = move matches first line; N = non-inferior move though not first line; 0 =
+inferior move; r = repeating sequence so eliminsted; e = eliminated because one side far ahead.
+
+-----------------------
+Adams Michael 2698 198
+ 1b D Niemann Hans Mok 2656: 29/ 40 = 72% 0.085  MM MM00MMM0MM MM0MMM00MM 00MM0MMMM0 0MMMMMMM
+ 2w D Grandelius Nils  2635: 15/ 33 = 45% 0.079  00 M0MM00000M 0M00MMMMMM MNNNMNNMNN M
+ 3b D Van Foreest Jord 2715: 10/ 22 = 45% 0.060  0M 0M000MMN0M MMM0M000NM rrrr
+ 4b D Shirov Alexei    2695: 11/ 21 = 52% 0.120  00 MMMMMM0M0N M0M0M000Mr rrr
+ 5w D Navara David     2682: 35/ 52 = 67% 0.072  MM MMMN0NM000 MMM00M0MMM MM0M00MM0M MMMMM0MMMM 00MMMM0MMM
+                                                    ---------
+ 6b D Erigaisi Arjun   2675: 12/ 30 = 40% 0.060  00 MMrrMNN0M0 MNN000M00M MM00NNMNMM
+-----------------------
+Erigaisi Arjun 2675 194
+ 1w W Shirov Alexei    2695: 12/ 22 = 55% 0.095  MM 00MN0MNM0M MMMM0M0Me0 Neeeeeeeee e
+ 2w W Salem AR Saleh   2690: 17/ 33 = 52% 0.063  0M MMN0MM0MMM 0MMM0M0M0M 0M0MMeeeee eee00e00Ne e0eeeeee
+ 3b L Niemann Hans Mok 2656: 20/ 43 = 47% 0.140  MM MMM00M000M NMMM00N0M0 MN0000M00M 0M0MMMMM00 0eeeeeeeee
+                                                    -------
+ 4w D Grandelius Nils  2635: 18/ 27 = 67% 0.042  MM MM0M0M0M0M MM0MNMNM0M MMMNMrrrr
+ 5b D Van Foreest Jord 2715: 32/ 40 = 80% 0.076  0M MMMMMMMMMM MMM0MMMMMM MMMMMMM000 MMNMMe0NM
+ 6w D Adams Michael    2698: 13/ 29 = 45% 0.057  MM M0rrrM0M0N 0NM000MM0M M0N0MNMN0M
+-----------------------
+Grandelius Nils 2635 173
+ 1w D Van Foreest Jord 2715: 21/ 32 = 66% 0.036  MM MM0MM0MMM0 00MMM0M0M0 MM0MNMMMMN
+ 2b D Adams Michael    2698: 17/ 32 = 53% 0.052  M0 M0MM000M0M MMM0MM00MN MNMMMNNNNM
+ 3w D Navara David     2682: 18/ 32 = 56% 0.056  M0 M000MMMMM0 0MM0MMMM0M MMN000MM00 rrrr
+ 4b D Erigaisi Arjun   2675: 18/ 26 = 69% 0.024  0M NM0MMMMMM0 MMMMMMMMM0 NNMNrrrr
+ 5w W Salem AR Saleh   2690: 15/ 25 = 60% 0.099  0M M000MM0M00 MMM00MMMMM 0MeMeee
+ 6b D Niemann Hans Mok 2656: 16/ 26 = 62% 0.017  NM MMMM0MMMMM 0MMNMNMNNM NNNMrrrr
+-----------------------
+Navara David 2682 187
+ 1b L Salem AR Saleh   2690: 13/ 26 = 50% 0.197  MM M00N000M0M M0MM0MMMMM 0000eeeeee
+ 2w D Niemann Hans Mok 2656: 19/ 28 = 68% 0.111  MM MMNMM00M00 0MMNMMMM0M MMM0MMrrrr
+ 3b D Grandelius Nils  2635: 19/ 31 = 61% 0.049  M0 M0MM000M00 0MMMMMMMMN MM0M0MM0Mr rrr
+ 4w D Van Foreest Jord 2715: 11/ 27 = 41% 0.067  MM N00M0MNM0M 000000000M MMMMNrrrr
+ 5b D Adams Michael    2698: 34/ 52 = 65% 0.061  MM M0M0M0M0MM M000MNMM0M MMMMMMNMMM MM0MMM0NMM 00MNMM0MMN
+                                                    --------
+ 6b W Shirov Alexei    2695: 17/ 23 = 74% 0.045  0M MNMMMM0MMM MMrrrMMMM0 MMN0eeerrr reeee
+-----------------------
+Niemann Hans Moke 2656 220
+ 1w D Adams Michael    2698: 21/ 41 = 51% 0.081  MM MM0000M0MM MM0M0M0MMM MM0M0M0M00 0M0NNN0NM
+ 2b D Navara David     2682: 18/ 27 = 67% 0.087  MM M0MMMMM00M NNMMNM00M0 MMMMMrrrrr
+ 3w W Erigaisi Arjun   2675: 20/ 43 = 47% 0.110  M0 0MM00MM0MM 0MMMN0MM00 MM00N00MM0 M00MM0M00N 0eeeeeeeee
+                                                    --------
+ 4b W Salem AR Saleh   2690: 22/ 32 = 69% 0.035  MM N0M0MMMMMM MMM0NMMM0M MMNMN0MMeN Mee
+ 5w W Shirov Alexei    2695: 36/ 51 = 71% 0.054  M0 0MMMMMM0M0 000MMM0MMM MMMMMMMN0M 0MMM0MMM0M MMM0NMMMM
+ 6w D Grandelius Nils  2635: 18/ 26 = 69% 0.020  MM MMMMM0MM0M MMM0MNMNMN MMNNrrrr
+-----------------------
+Salem AR Saleh 2690 206
+ 1w W Navara David     2682: 15/ 26 = 58% 0.130  MM MMM0MMM0M0 0MM00MM0MM 0000eeeeee e
+ 2b L Erigaisi Arjun   2675: 12/ 32 = 38% 0.108  MM 0M00MNM000 0000M0MNM0 0000eeeeee eeeMMeMM0e e0eeeee
+ 3w D Shirov Alexei    2695: 21/ 49 = 43% 0.076  M0 MM0MM0000M 0M0000MNMM 0M0M0M000M MMrrr0NNNN M0M000MMMN
+                                                    -
+ 4w L Niemann Hans Mok 2656: 23/ 33 = 70% 0.100  M0 0M0MMMM0M0 MMMMMMM00M M0MMMMMM0M Nee
+ 5b L Grandelius Nils  2635:  8/ 24 = 33% 0.210  MM N0M00MN00M M0M00M0000 0ee0ee
+ 6w W Van Foreest Jord 2715: 20/ 42 = 48% 0.105  MM 00M0MMMN0M M0M00000M0 M00MM0M000 MM00rrrM0M 0MMeee
+-----------------------
+Shirov Alexei 2695 213
+ 1b L Erigaisi Arjun   2675: 17/ 22 = 77% 0.135  MM MMMMMMMMMM MMM00M00eM 0eeeeeeeee
+ 2w D Van Foreest Jord 2715: 28/ 45 = 62% 0.026  MM MMMMMMM00M MM0MMM0M0M 0MM0MMNMMM NNrrN0Nrrr NMMMNNNM
+ 3b D Salem AR Saleh   2690: 28/ 49 = 57% 0.077  N0 00M0MMM0MN MMMM00000M MMMNM00M0M NrrrMNMNMM 0MM0MMMMMM
+ 4w D Adams Michael    2698: 12/ 22 = 55% 0.114  0M MM0M00MMM0 0M0NM00MMM rrr
+ 5b L Niemann Hans Mok 2656: 31/ 50 = 62% 0.078  M0 MM0MM0M0MM M00MNMMM00 00MM0MMNM0 NM00MMMMMM MMMMMNM0
+ 6w L Navara David     2682:  9/ 25 = 36% 0.135  NM M0MMM00M0M 000rr0MNN0 0M000eerrr reeee
+-----------------------
+Van Foreest Jorden 2715 208
+ 1b D Grandelius Nils  2635: 23/ 32 = 72% 0.035  M0 MM0MMMMMM0 MMMMM000MM MMMMMNMMNN
+ 2b D Shirov Alexei    2695: 25/ 44 = 57% 0.029  MM M000MNMMMM MMMNMMMM0N MM0NNNMN0M MrrrNMMrrr NNN0MMNM
+ 3w D Adams Michael    2698: 10/ 22 = 45% 0.077  M0 MMM0M0M0M0 0000N00MMM rrrr
+ 4b D Navara David     2682: 12/ 26 = 46% 0.064  MM 00MMMMMM0M M00N0M000N M0NNrrrrr
+ 5w D Erigaisi Arjun   2675: 27/ 41 = 66% 0.115  NM MMM00MMM0M 00M0MMMMMM 000MMM0MM0 MMMMN0eMMM
+ 6b L Salem AR Saleh   2690: 17/ 43 = 40% 0.148  MM M000MMM0M0 M0M0000M00 MM00MM00M0 0000rrN0MM 000ee
+-----------------------

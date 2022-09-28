@@ -1,0 +1,21 @@
+Rank   Matc%  AvScD  ROI  #Mvs   Sc/ #Gm  Player                         Rtng  Event/source-file
+-----  -----  -----  ---- ----   -------  -----------------------------  ----  ------------------------------------
+  516  66.3%  0.045  60    196   9      Rausis, I.       2600 FagernesTV2ChessIntl2015_SF6d19-30pv1.sc3
+ 1856  67.3%  0.050  57    110   7      Rausis, I.       2589 BejajaOpen2015Avail_SF6d19-30pv1.sc3
+ 3798  57.7%  0.039  56    196   7      Rausis, I.       2595 PolarCapitalJerseyOpen2015Most_SF6d19-30pv1.sc3
+ 4743  55.7%  0.032  55    158   9      Rausis, I.       2590 CZEch2015cat12_SF6d19-30pv1.sc3
+ 7593  60.3%  0.051  54    136   7      Rausis, I.       2586 HeusenstammSchlossOpen2014Avail_SF6d19-30pv1.sc3
+ 8203  60.2%  0.059  53    211   6      Rausis, I.       2585 LisbonChristmasOpen2014Avail_SF6d19-30pv1.sc3
+  255  73.8%  0.029  61     84   3      Rausis, I.       2589 BELchT2015-16_SF7c0d20-30pv1.sc3
+  327  69.4%  0.025  61    108   5      Rausis, I.       2594 CZEchTExtraliga2015-16_SF7c0d20-30pv1.sc3
+  893  58.9%  0.026  59    209   6      Rausis, I.       2589 CZEchTExtraliga2016-2017_SF8d20-30pv1.sc3
+  971  62.7%  0.043  59    308   9      Rausis, I.       2617 TepliceOpen2017Avail_SF8d20-30pv1.sc3
+   86  69.9%  0.025  64    163   9      Rausis, Igors    2632 BL2Sued2017-2018_SF9d20-30pv1.sc3
+  102  69.5%  0.033  64    213   8      Rausis, I.       2651 SautronOpen2018Avail_SF9d20-30pv1.sc3
+ 2286  69.0%  0.054  58    126   8      Rausis, Igors    2635 FagernesTV2GMOpen2018_SF9d20-30pv1.sc3
+ 2445  74.7%  0.061  58     87   4      Rausis, Igors    2651 CZEchT2018-2019_SF9d20-30pv1.sc3
+ 5695  64.9%  0.043  56     77   7      Rausis, Igors    2626 CZEchT2017-2018_SF9d20-30pv1.sc3
+  122  71.3%  0.056  62.8  195  8.5/11  Rausis, Igors    2651  CZEchT2018-2019_SF10d20-30pv1.sc3
+  260  67.5%  0.040  61.6  157  6.5/ 9  Rausis, Igors    2657  BL2Sued2018-2019_SF10d20-30pv1.sc3
+14101  57.7%  0.070  51.7  137  5.0/ 5  Rausis, Igors    2653  LuganoOpen2019_SF10d20-30pv1.sc3
+14427  57.7%  0.070  51.6  137  5.0/ 5  Rausis, Igors    2653  LuganoParadisoChessMastersOpen2019Avail_SF10d20-30p

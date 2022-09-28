@@ -1,0 +1,104 @@
+Rank    Matc%  AvScD  ROI  #Mvs   Sc/ #Gm  Player                         Rtng  Event/source-file
+------  -----  -----  ---- ----   -------  -----------------------------  ----  ------------------------------------
+  4718  61.9%  0.047  62.3  215   7.0/  9  Niemann, Hans Moke             2465  CCCSAFallGM2020cat8_SF11d20-30pv1.sc4
+  8815  64.0%  0.072  60.4  222   5.5/  7  Niemann, Hans Moke             2478  SunwaySitgesDec2020Avail_SF11d20-30pv1.sc4
+  9649  55.4%  0.067  60.2  202   4.5/  6  Niemann Hans Moke              2687  Coinbase24G12RapidKO07Aug2022_SF11d20-30pv1.sc4
+ 10464  63.6%  0.064  59.9  239   5.0/  7  HansNiemann                    2564  ChicagoOpenICC2050G100Oct2020_SF11d20-30pv1.sc4
+ 12262  62.9%  0.059  59.4  291   4.0/  7  Niemann Hans Moke              2642  Bundesliga2022_SF11d20-30pv1.sc4
+ 12344  70.5%  0.087  59.4  237   6.5/  9  Niemann Hans Moke              2637  ReykjavikOpenApr2022_SF11d20-30pv1.sc4
+ 13709  54.5%  0.134  59.1  321   7.5/ 10  Niemann, Hans Moke             2465  ChessComTitledTuesdayBlitz28July04Aug2020_SF11d20-30pv1.sc4
+ 14610  62.5%  0.060  58.9  291   4.0/  7  Niemann Hans Moke              2642  Bundesliga2021-2022_SF11d20-30pv1.sc4
+ 20331  63.9%  0.079  57.9  249   6.0/  8  Niemann, Hans Moke             2567  PhiladelphiaInternationalJune2021Avail_SF11d20-30pv1.sc4
+ 21984  59.1%  0.100  57.6  362   6.5/ 12  Niemann Hans Moke              2624  CharityCupPrelimsG25RapidMar2022_SF11d20-30pv1.sc4
+ 22513  53.5%  0.135  57.5  271   8.5/ 10  Niemann, Hans Moke             2465  ChessComTitledTuesdayBlitz16June2020_SF11d20-30pv1.sc4
+ 31644  52.1%  0.125  56.4  605  12.5/ 21  Niemann, Hans Moke             2645  WchBlitzDec2021_SF11d20-30pv1.sc4
+ 33268  58.6%  0.067  56.2  186   6.0/  9  Niemann Hans Moke              2526  BassanoGMMixMar2021Avail_SF11d20-30pv1.sc4
+ 34100  60.1%  0.067  56.1  353   5.5/ 11  Niemann Hans Moke              2638  FIDEGrandSwissOct2021_SF11d20-30pv1.sc4
+ 34171  53.9%  0.122  56.1  319   7.0/ 11  Niemann Hans Moke              2680  WchBlitzDec2021day1_SF11d20-30pv1.sc4
+ 34704  63.4%  0.059  56.0  164   3.5/  5  Niemann Hans Moke              2688  SinquefieldCupSep2022cat21_SF11d20-30pv1.sc4
+ 35173  55.0%  0.163  56.0  269   6.0/  8  Niemann, Hans Moke             2465  ChessComTitledTuesdayBlitz14July2020_SF11d20-30pv1.sc4
+ 38784  63.5%  0.083  55.6  263   6.0/  9  Niemann, Hans Moke             2619  USAchU20OJuly2021C24_SF11d20-30pv1.sc4
+ 40719  61.3%  0.080  55.5  225   6.5/  8  Niemann, Hans Moke             2571  WorldOpenJuly2021Avail_SF11d20-30pv1.sc4
+ 42385  60.7%  0.073  55.3  364   4.0/  9  Niemann Hans Moke              2642  StLouisSpringAMar2022cat16_SF11d20-30pv1.sc4
+ 46021  60.4%  0.065  55.0  192   8.0/  9  Niemann, Hans                  2648  USOpenAug2021Avail_SF11d20-30pv1.sc4
+ 48404  61.0%  0.100  54.8  326   7.5/  9  Niemann, Hans Moke             2508  PodgoricaNiksicMemApr2021_SF11d20-30pv1.sc4
+ 51001  59.7%  0.075  54.6  268   5.0/  7  Niemann Hans Moke              2606  TrasosMontesOpenAug2021Avail_SF11d20-30pv1.sc4
+ 52525  59.4%  0.101  54.4  335   5.0/  9  Niemann, Hans Moke             2465  SPICECupOpenOct2020_SF11d20-30pv1.sc4
+ 56894  58.4%  0.089  54.1  269   6.0/  9  Niemann Hans Moke              2508  BassanoEasterOpenA1Apr2021Avail_SF11d20-30pv1.sc4
+ 57269  49.6%  0.138  54.1  244   4.5/  7  Niemann, Hans Moke             2465  ChessComTitledTuesdayBlitz2June2020_SF11d20-30pv1.sc4
+ 60589  59.0%  0.066  53.8  227   4.5/  6  Niemann Hans Moke              2656  SigemanMay2022cat18_SF11d20-30pv1.sc4
+ 62840  57.4%  0.112  53.7  542   7.5/ 13  Niemann, Hans Moke             2645  WchRapidDec2021_SF11d20-30pv1.sc4
+ 62995  58.5%  0.091  53.6  142   2.5/  4  Niemann Hans Moke              2688  RoadToMiamiPrelimsG25RapidG25RapidJuly2022_SF11d20-30pv1.sc4
+ 63631  58.8%  0.100  53.6  277   7.0/  9  Niemann Hans Moke              2484  ParacinWinterGM2021cat6_SF11d20-30pv1.sc4
+ 66233  44.8%  0.086  53.4   96   3.5/  4  Niemann, Hans Moke             2465  ChessComTitledTuesdayG4Blitz11Aug2020_SF11d20-30pv1a.sc4
+ 66364  42.0%  0.097  53.4  469   6.5/  9  Niemann, Hans Moke             2465  ChessComTitledTuesdayG4Blitz11Aug2020_SF11d20-30pv1.sc4
+ 69478  57.1%  0.096  53.2  324   6.5/  9  Niemann Hans Moke              2688  Coinbase22G10RapidSwiss23July2022_SF11d20-30pv1.sc4
+ 71442  50.0%  0.139  53.1  124   3.0/  5  Niemann, Hans Moke             2465  ChessComTitledTuesdayBlitz04Aug2020_SF11d20-30pv1.sc4
+ 79455  64.4%  0.086  52.5  174   6.0/  7  Niemann Hans Moke              2508  NoviSadTS200MixApr2021_SF11d20-30pv1.sc4
+ 81677  49.3%  0.152  52.4  993  26.0/ 37  Niemann, Hans Moke             2567  ChessComJuniorSpeedBlitzQualAmericasJune2021_SF11d20-30pv1.sc4
+ 85579  55.0%  0.099  52.1  100   0.5/  3  Niemann Hans Moke              2624  CharityCupKOG25RapidMar2022_SF11d20-30pv1.sc4
+ 97323  59.6%  0.095  51.4  277   6.0/  9  Niemann Hans Moke              2656  SharjahMastersMay2022_SF11d20-30pv1.sc4
+100826  45.9%  0.134  51.1   85   2.0/  3  Niemann, Hans Moke             2465  PNWCCOnlineBlitz8JP2020_SF11d20-30pv1.sc4
+102923  50.4%  0.139  51.0  260   5.5/ 10  Niemann Hans Moke              2680  WchBlitzDec2021day2_SF11d20-30pv1.sc4
+103004  51.3%  0.121  51.0  234   7.0/  9  Niemann Hans Moke              2687  Coinbase24G10RapidSwiss06Aug2022_SF11d20-30pv1.sc4
+106498  57.0%  0.123  50.8  107   2.5/  5  Niemann Hans Moke              2642  Coinbase7G10RapidSwiss26Mar2022_SF11d20-30pv1rds4-6.sc4
+107063  57.0%  0.123  50.8  107   2.5/  5  Niemann Hans Moke              2642  Coinbase07G10RapidSwiss26Mar2022_SF11d20-30pv1rds4-6.sc4
+109008  57.0%  0.086  50.6  321   6.0/  9  Niemann Hans Moke              2609  PlovdivU21OpenSep2021Avail_SF11d20-30pv1.sc4
+109096  57.5%  0.087  50.6  228   6.5/  8  Niemann Hans Moke              2606  GuimaeresOpenSep2021Avail_SF11d20-30pv1.sc4
+112142  54.1%  0.120  50.4  122   1.0/  3  Niemann Hans Moke              2656  Coinbase16G10RapidSwiss28May2022_SF11d20-30pv1.sc4
+120648  50.6%  0.128  49.9  241   4.5/  7  Niemann, Hans Moke             2472  WYRCAmericasU18OG13RapidNov2020_SF11d20-30pv1.sc4
+121725  58.7%  0.097  49.8  344   7.5/ 11  Niemann Hans Moke              2609  SRBchTPremierSep2021_SF11d20-30pv1.sc4
+121932  46.9%  0.166  49.8  305   5.5/  9  Niemann, Hans Moke             2465  ChessComTitledTuesdayBlitz21July2020_SF11d20-30pv1.sc4
+122731  39.5%  0.108  49.8  248   1.5/  3  Niemann, Hans Moke             2465  ChessComTitledTuesdayG4Blitz11Aug2020_SF11d20-30pv1b.sc4
+127659  58.1%  0.105  49.4  258   6.0/  9  Niemann, Hans Moke             2567  LasVegasNationalOpen2021Avail_SF11d20-30pv1.sc4
+128222  56.5%  0.134  49.4  177   3.5/  8  Niemann Hans Moke              2642  Coinbase07G10RapidSwiss26Mar2022_SF11d20-30pv1.sc4
+129188  56.5%  0.134  49.4  177   3.5/  8  Niemann Hans Moke              2642  Coinbase7G10RapidSwiss26Mar2022_SF11d20-30pv1.sc4
+133326  48.9%  0.157  49.1  268   4.5/  9  Niemann Hans Moke              2636  CoinbaseG10BlitzSwiss12Feb2022_SF11d20-30pv1.sc4
+137864  56.1%  0.121  48.8  228   5.5/  9  Niemann, Hans Moke             2459  MarshallWinterGM2020cat8_SF11d20-30pv1.sc4
+141528  60.3%  0.096  48.5  297   6.5/  9  Niemann Hans Moke              2678  PragueFestivalChallengersJune2022cat15_SF11d20-30pv1.sc4
+143366  58.8%  0.099  48.4  274   7.5/  9  Niemann Hans Moke              2637  HavanaCapaMemEliteApr2022cat14_SF11d20-30pv1.sc4
+144327  51.1%  0.106  48.3  550   5.5/ 15  Niemann Hans Moke              2642  AirthingsMastersPrelimG25RapidFeb2022cat19_SF11d20-30pv1.sc4
+152201  46.3%  0.171  47.8 1039  14.5/ 29  Niemann, Hans Moke             2465  Chess24BanterBlitzQualsSep2020_SF11d20-30pv1.sc4
+153367  60.2%  0.107  47.7  261   7.0/  9  Niemann Hans Moke              2645  VerganiCupJan2022Avail_SF11d20-30pv1.sc4
+154282  53.2%  0.102  47.6  284   4.5/  9  Niemann Hans Moke              2525  NoviSadTS157MixFeb2021_SF11d20-30pv1.sc4
+154725  50.5%  0.110  47.6  204   3.5/  6  Niemann Hans Moke              2656  Coinbase14G10RapidSwiss14May2022_SF11d20-30pv1.sc4
+154876  55.9%  0.108  47.6  102   4.5/  5  HansNiemann                    2620  LosAngelesOpenCCAG55ICC2175Dec2020_SF11d20-30pv1.sc4
+158498  55.4%  0.097  47.3  258   5.5/  9  Niemann Hans Moke              2609  SharjahMastersG120Sep2021_SF11d20-30pv1.sc4
+158506  53.0%  0.176  47.3  117   2.5/  4  Niemann, Hans Moke             2459  PROLeagueRapidKO2020_SF11d20-30pv1.sc4
+159230  59.6%  0.109  47.3  193   4.5/  7  Niemann Hans Moke              2645  VerganiCupJan2021Avail_SF11d20-30pv1.sc4
+163388  54.6%  0.116  47.0  526   4.0/ 15  Niemann Hans Moke              2687  FTXCryptoCupG25RapidAug2022_SF11d20-30pv1.sc4
+165775  52.7%  0.106  46.8  315   6.0/  9  Niemann, Hans Moke             2508  NiksicKontoMemApr2021_SF11d20-30pv1.sc4
+169178  47.7%  0.116  46.5  130   0.5/  4  Niemann Hans Moke              2637  Coinbase10G10RapidSwiss16Apr2022_SF11d20-30pv1.sc4
+169912  53.5%  0.136  46.4  282   5.0/  9  Niemann Hans Moke              2642  Coinbase3G10RapidSwiss26Feb2022_SF11d20-30pv1.sc4
+170279  46.8%  0.158  46.4  504  10.5/ 18  Niemann Hans Moke              2635  RigaLindoresAbbeyTalMemG5BlitzNov2021_SF11d20-30pv1.sc4
+170730  52.8%  0.132  46.4  286   6.0/  9  Niemann Hans Moke              2645  DubaiHamdanBinRashidG25RapidDec2021_SF11d20-30pv1.sc4
+170743  53.5%  0.136  46.4  282   5.0/  9  Niemann Hans Moke              2642  Coinbase03G10RapidSwiss26Feb2022_SF11d20-30pv1.sc4
+171806  52.5%  0.186  46.3  118   2.5/  4  Niemann, Hans Moke             2459  PROLeagueG12RapidKO2020TWIC_SF11d20-30pv1.sc4
+176379  50.2%  0.098  45.9  277   6.0/  9  Niemann Hans Moke              2525  ParacinOrbis1GM2021cat6_SF11d20-30pv1.sc4
+178397  53.8%  0.121  45.7  186   5.5/  9  Niemann Hans Moke              2525  BelgradeRadnickiChessT2RGMFeb2021cat9_SF11d20-30pv1.sc4
+179365  51.1%  0.157  45.6  472   8.0/ 16  Niemann, Hans Moke             2465  PROChessLeagueRapidStage2020_SF11d20-30pv1.sc4
+181561  57.4%  0.103  45.4  183   3.0/  5  Niemann Hans Moke              2687  TURchTSuperLeagueAug2022_SF11d20-30pv1.sc4
+183104  50.7%  0.150  45.2  854  16.0/ 28  Niemann, Hans Moke             2465  PROLeagueG12RapidStage2020TWIC_SF11d20-30pv1.sc4
+183511  55.4%  0.124  45.2  130   2.0/  4  HansNiemann                    2618  NationalOpenG80ICC2152Nov2020_SF11d20-30pv1.sc4
+185116  55.5%  0.105  45.0  218   4.0/  6  Niemann Hans Moke              2645  SunwaySitgesDec2021Avail_SF11d20-30pv1.sc4
+185647  51.1%  0.117  44.9  262   6.5/  9  NiemannHans Moke               2688  Coinbase23G10RapidSwiss30July2022_SF11d20-30pv1.sc4
+186545  57.4%  0.114  44.8  251   7.5/ 10  Niemann Hans Moke              2635  PresidentOfUZBPrizesNov2021Avail_SF11d20-30pv1.sc4
+187119  53.8%  0.089  44.8  273   4.5/  9  Niemann Hans Moke              2678  JermukAvagyanMemJune2022cat16_SF11d20-30pv1.sc4
+187744  50.0%  0.119  44.7  124   4.0/  5  Niemann Hans Moke              2526  BassanoSpringWeekendMar2021Avail_SF11d20-30pv1.sc4
+187977  54.1%  0.150  44.7  148   3.0/  4  Niemann, Hans Moke             2465  USClassMasterNov2020Avail_SF11d20-30pv1.sc4
+189469  49.2%  0.160  44.5 2417  42.5/ 82  Niemann Hans Moke              2637  ChessComJuniorSpeedBlitzKOApr2022_SF11d20-30pv1.sc4
+191289  55.8%  0.134  44.3  251   4.5/  9  Niemann Hans Moke              2526  Bassano2GMMixMar2021Avail_SF11d20-30pv1.sc4
+191725  45.6%  0.180  44.2  248   6.0/ 11  Niemann Hans Moke              2645  DubaiHamdanBinRashidBlitzDec2021_SF11d20-30pv1.sc4
+192594  45.4%  0.121  44.1  163   1.5/  5  Niemann Hans Moke              2637  Coinbase12G10RapidSwiss30Apr2022_SF11d20-30pv1.sc4
+192963  55.6%  0.176  44.1  180   2.5/  6  Niemann Hans Moke              2637  Coinbase8G10RapidSwiss02Apr2022_SF11d20-30pv1.sc4
+193240  55.6%  0.176  44.1  180   2.5/  6  Niemann Hans Moke              2637  Coinbase08G10RapidSwiss02Apr2022_SF11d20-30pv1.sc4
+194854  50.6%  0.132  43.8  168   1.5/  5  Niemann Hans Moke              2688  Coinbase21G10RapidSwiss16July2022_SF11d20-30pv1.sc4
+196186  52.4%  0.132  43.7  273   6.0/  9  Niemann Hans Moke              2687  Coinbase25G10RapidSwiss13Aug2022_SF11d20-30pv1.sc4
+199071  44.9%  0.209  43.2  394   8.0/ 11  Niemann, Hans Moke             2465  ChessComTitledTuesdayBlitz30June2020_SF11d20-30pv1.sc4
+201599  50.6%  0.165  42.8   85   1.5/  3  Niemann Hans Moke              2688  Coinbase22G12RapidKO24July2022_SF11d20-30pv1.sc4
+205765  49.1%  0.159  42.0  163   1.5/  7  Niemann Hans Moke              2642  Coinbase05G10RapidSwiss12Mar2022_SF11d20-30pv1.sc4
+205846  49.1%  0.159  42.0  163   1.5/  7  Niemann Hans Moke              2642  Coinbase5G10RapidSwiss12Mar2022_SF11d20-30pv1.sc4
+209399  45.5%  0.184  41.2  963   9.0/ 32  Niemann Hans Moke              2571  ChessComJuniorSpeedBlitzKOJuly2021_SF11d20-30pv1.sc4
+212826  48.9%  0.157  40.2  268   4.5/  9  Niemann Hans Moke              2636  Coinbase01G10RapidSwiss12Feb2022_SF11d20-30pv1.sc4
+212892  48.9%  0.157  40.2  268   4.5/  9  Niemann Hans Moke              2636  CoinbaseG10RapidSwiss12Feb2022_SF11d20-30pv1.sc4
+219402  43.0%  0.124  36.6  307   6.0/  9  Niemann Hans Moke              2678  Coinbase17G10RapidSwiss04June2022_SF11d20-30pv1.sc4

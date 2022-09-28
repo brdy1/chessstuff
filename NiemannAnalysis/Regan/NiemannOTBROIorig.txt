@@ -1,0 +1,51 @@
+Rank    Matc%  AvScD  ROI  #Mvs   Sc/ #Gm  Player                         Rtng  Event/source-file
+------  -----  -----  ---- ----   -------  -----------------------------  ----  ------------------------------------
+  4718  61.9%  0.047  62.3  215   7.0/  9  Niemann, Hans Moke             2465  CCCSAFallGM2020cat8_SF11d20-30pv1.sc4
+  8815  64.0%  0.072  60.4  222   5.5/  7  Niemann, Hans Moke             2478  SunwaySitgesDec2020Avail_SF11d20-30pv1.sc4
+ 10464  63.6%  0.064  59.9  239   5.0/  7  HansNiemann                    2564  ChicagoOpenICC2050G100Oct2020_SF11d20-30pv1.sc4
+ 12262  62.9%  0.059  59.4  291   4.0/  7  Niemann Hans Moke              2642  Bundesliga2022_SF11d20-30pv1.sc4
+ 12344  70.5%  0.087  59.4  237   6.5/  9  Niemann Hans Moke              2637  ReykjavikOpenApr2022_SF11d20-30pv1.sc4
+ 14610  62.5%  0.060  58.9  291   4.0/  7  Niemann Hans Moke              2642  Bundesliga2021-2022_SF11d20-30pv1.sc4
+ 17187  69.9%  0.090  58.4  236   6.5/  9  Niemann Hans Moke              2637  ReykjavikOpenApr2022C24Avail_SF11d20-30pv1.sc4
+ 20331  63.9%  0.079  57.9  249   6.0/  8  Niemann, Hans Moke             2567  PhiladelphiaInternationalJune2021Avail_SF11d20-30pv1.sc4
+ 33268  58.6%  0.067  56.2  186   6.0/  9  Niemann Hans Moke              2526  BassanoGMMixMar2021Avail_SF11d20-30pv1.sc4
+ 34100  60.1%  0.067  56.1  353   5.5/ 11  Niemann Hans Moke              2638  FIDEGrandSwissOct2021_SF11d20-30pv1.sc4
+ 34704  63.4%  0.059  56.0  164   3.5/  5  Niemann Hans Moke              2688  SinquefieldCupSep2022cat21_SF11d20-30pv1.sc4
+ 38784  63.5%  0.083  55.6  263   6.0/  9  Niemann, Hans Moke             2619  USAchU20OJuly2021C24_SF11d20-30pv1.sc4
+ 40719  61.3%  0.080  55.5  225   6.5/  8  Niemann, Hans Moke             2571  WorldOpenJuly2021Avail_SF11d20-30pv1.sc4
+ 42385  60.7%  0.073  55.3  364   4.0/  9  Niemann Hans Moke              2642  StLouisSpringAMar2022cat16_SF11d20-30pv1.sc4
+ 46021  60.4%  0.065  55.0  192   8.0/  9  Niemann, Hans                  2648  USOpenAug2021Avail_SF11d20-30pv1.sc4
+ 48404  61.0%  0.100  54.8  326   7.5/  9  Niemann, Hans Moke             2508  PodgoricaNiksicMemApr2021_SF11d20-30pv1.sc4
+ 50449  59.7%  0.075  54.6  268   5.0/  7  Niemann Hans Moke              2606  BarcelonaCiutatOpenAug2021Avail_SF11d20-30pv1.sc4
+ 50680  59.7%  0.075  54.6  268   5.0/  7  Niemann Hans Moke              2606  BragancaOpenAug2021Avail_SF11d20-30pv1.sc4
+ 51001  59.7%  0.075  54.6  268   5.0/  7  Niemann Hans Moke              2606  TrasosMontesOpenAug2021Avail_SF11d20-30pv1.sc4
+ 52525  59.4%  0.101  54.4  335   5.0/  9  Niemann, Hans Moke             2465  SPICECupOpenOct2020_SF11d20-30pv1.sc4
+ 56894  58.4%  0.089  54.1  269   6.0/  9  Niemann Hans Moke              2508  BassanoEasterOpenA1Apr2021Avail_SF11d20-30pv1.sc4
+ 60589  59.0%  0.066  53.8  227   4.5/  6  Niemann Hans Moke              2656  SigemanMay2022cat18_SF11d20-30pv1.sc4
+ 63631  58.8%  0.100  53.6  277   7.0/  9  Niemann Hans Moke              2484  ParacinWinterGM2021cat6_SF11d20-30pv1.sc4
+ 79455  64.4%  0.086  52.5  174   6.0/  7  Niemann Hans Moke              2508  NoviSadTS200MixApr2021_SF11d20-30pv1.sc4
+ 97323  59.6%  0.095  51.4  277   6.0/  9  Niemann Hans Moke              2656  SharjahMastersMay2022_SF11d20-30pv1.sc4
+109008  57.0%  0.086  50.6  321   6.0/  9  Niemann Hans Moke              2609  PlovdivU21OpenSep2021Avail_SF11d20-30pv1.sc4
+109096  57.5%  0.087  50.6  228   6.5/  8  Niemann Hans Moke              2606  GuimaeresOpenSep2021Avail_SF11d20-30pv1.sc4
+121725  58.7%  0.097  49.8  344   7.5/ 11  Niemann Hans Moke              2609  SRBchTPremierSep2021_SF11d20-30pv1.sc4
+127659  58.1%  0.105  49.4  258   6.0/  9  Niemann, Hans Moke             2567  LasVegasNationalOpen2021Avail_SF11d20-30pv1.sc4
+137864  56.1%  0.121  48.8  228   5.5/  9  Niemann, Hans Moke             2459  MarshallWinterGM2020cat8_SF11d20-30pv1.sc4
+141528  60.3%  0.096  48.5  297   6.5/  9  Niemann Hans Moke              2678  PragueFestivalChallengersJune2022cat15_SF11d20-30pv1.sc4
+143366  58.8%  0.099  48.4  274   7.5/  9  Niemann Hans Moke              2637  HavanaCapaMemEliteApr2022cat14_SF11d20-30pv1.sc4
+153367  60.2%  0.107  47.7  261   7.0/  9  Niemann Hans Moke              2645  VerganiCupJan2022Avail_SF11d20-30pv1.sc4
+154282  53.2%  0.102  47.6  284   4.5/  9  Niemann Hans Moke              2525  NoviSadTS157MixFeb2021_SF11d20-30pv1.sc4
+154876  55.9%  0.108  47.6  102   4.5/  5  HansNiemann                    2620  LosAngelesOpenCCAG55ICC2175Dec2020_SF11d20-30pv1.sc4
+158498  55.4%  0.097  47.3  258   5.5/  9  Niemann Hans Moke              2609  SharjahMastersG120Sep2021_SF11d20-30pv1.sc4
+159230  59.6%  0.109  47.3  193   4.5/  7  Niemann Hans Moke              2645  VerganiCupJan2021Avail_SF11d20-30pv1.sc4
+165775  52.7%  0.106  46.8  315   6.0/  9  Niemann, Hans Moke             2508  NiksicKontoMemApr2021_SF11d20-30pv1.sc4
+176379  50.2%  0.098  45.9  277   6.0/  9  Niemann Hans Moke              2525  ParacinOrbis1GM2021cat6_SF11d20-30pv1.sc4
+178397  53.8%  0.121  45.7  186   5.5/  9  Niemann Hans Moke              2525  BelgradeRadnickiChessT2RGMFeb2021cat9_SF11d20-30pv1.sc4
+181561  57.4%  0.103  45.4  183   3.0/  5  Niemann Hans Moke              2687  TURchTSuperLeagueAug2022_SF11d20-30pv1.sc4
+183511  55.4%  0.124  45.2  130   2.0/  4  HansNiemann                    2618  NationalOpenG80ICC2152Nov2020_SF11d20-30pv1.sc4
+185116  55.5%  0.105  45.0  218   4.0/  6  Niemann Hans Moke              2645  SunwaySitgesDec2021Avail_SF11d20-30pv1.sc4
+186545  57.4%  0.114  44.8  251   7.5/ 10  Niemann Hans Moke              2635  PresidentOfUZBPrizesNov2021Avail_SF11d20-30pv1.sc4
+187119  53.8%  0.089  44.8  273   4.5/  9  Niemann Hans Moke              2678  JermukAvagyanMemJune2022cat16_SF11d20-30pv1.sc4
+187744  50.0%  0.119  44.7  124   4.0/  5  Niemann Hans Moke              2526  BassanoSpringWeekendMar2021Avail_SF11d20-30pv1.sc4
+187977  54.1%  0.150  44.7  148   3.0/  4  Niemann, Hans Moke             2465  USClassMasterNov2020Avail_SF11d20-30pv1.sc4
+191056  54.1%  0.153  44.3  148   3.0/  4  Niemann, Hans Moke             2465  USClassMasterOpenNov2020Avail_SF11d20-30pv1.sc4
+191289  55.8%  0.134  44.3  251   4.5/  9  Niemann Hans Moke              2526  Bassano2GMMixMar2021Avail_SF11d20-30pv1.sc4
